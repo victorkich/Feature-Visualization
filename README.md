@@ -1,2 +1,2 @@
-# MNIST-Clustering
-Clustering applied to MNIST dataset.
+# Feature Visualization
+Feature visualization using clustering and decomposition.
